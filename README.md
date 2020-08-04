@@ -1,4 +1,4 @@
 # blog-site
 
 Blog Website created using HTML, CSS, and Javascript with Node.JS as the back-end.  I used EJS (Embedded Javascript Templating)
-for the first time with this project.
+for the first time with this project.  MongoDB Atlas is being used as the database for CRUD operations.
